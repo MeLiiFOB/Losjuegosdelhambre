@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Los juegos del hambre</title>
+</head>
+<body>
+    
+<nav>
+    <p>Los juegos del hambre</p>
+    <div>
+        <ul>
+            <li>INICIO</li>
+            <li>BLOG</li>
+            <li>CONTACTOS</li>
+        </ul>
+    </div>
+</nav>
+
+<section>
+    <img src="" alt="avatar">
+    <h1>BIENVENIDOS A DISEÑO WEB</h1>
+    <p>Que la fuerza te acompañe</p>
+</section>
+<section>
+    <h2>SOBRE EL PROFESOR</h2>
+    <P>El profesor explica, hace y ustedes practican</P>
+</section>
+<section>
+    <h3>SOBRE USTEDES</h3>
+    <P>Aprenderán a diseñar una página web</P>
+</section>
+<section>
+    <h3> TE AMO MI AMOOOOORRRRR</h3>
+</section>
+</body>
+</html>
